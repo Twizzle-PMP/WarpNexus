@@ -15,8 +15,8 @@ Plugin de warps para PocketMine-MP 5.x. Lo hice porque los existentes o son feos
 | Comando | Permiso | Descripción |
 |---------|---------|-------------|
 | `/warp` | `warp.nexus.use` | Abre el menú de warps |
-| `/setwarp &lt;nombre&gt;` | `warp.nexus.admin` | Crea un warp en tu posición |
-| `/delwarp &lt;nombre&gt;` | `warp.nexus.admin` | Elimina un warp |
+| `/setwarp nombre` | `warp.nexus.admin` | Crea un warp en tu posición |
+| `/delwarp nombre&` | `warp.nexus.admin` | Elimina un warp |
 | `/warp edit` | `warp.nexus.admin` | Lista de warps para editar |
-| `/warp edit &lt;nombre&gt;` | `warp.nexus.admin` | Edita un warp directamente |
+| `/warp edit nombre&` | `warp.nexus.admin` | Edita un warp directamente |
 | `/warp editmenu` | `warp.nexus.admin` | Mueve warps de slot visualmente |
