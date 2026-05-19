@@ -1,0 +1,11 @@
+name: WarpNexus
+main: Twizzle\WarpNexus\Loader
+version: 1.0.0
+api: 5.0.0
+author: Twizzle
+
+permissions:
+  warp.nexus.use:
+    default: true
+  warp.nexus.admin:
+    default: op

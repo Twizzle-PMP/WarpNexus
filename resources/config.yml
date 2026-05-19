@@ -1,0 +1,13 @@
+warp-menu-title: "§d▐ §l§dWarp §5N§de§5x§du§5s §d▐"
+edit-menu-title: "§d▐ §l§dEdit §5W§da§5r§dp§5s §d▐"
+teleport-delay: 3
+warp-created: "§d▐ §dWarp §d§l{name} §r§dcreated!"
+warp-deleted: "§d▐ §dWarp §d§l{name} §r§ddeleted!"
+warp-teleporting: "§d▐ §dTeleporting to §d§l{name} §r§din §d§l{seconds} §r§dseconds..."
+warp-teleported: "§d▐ §dTeleported to §d§l{name}§r§d!"
+warp-updated: "§d▐ §dWarp §d§l{name} §r§dupdated!"
+no-warps: "§d▐ §dNo warps available."
+warp-not-found: "§d▐ §dWarp §d§l{name} §r§dnot found."
+warp-exists: "§d▐ §dWarp §d§l{name} §r§dalready exists."
+warp-slot-taken: "§d▐ §dThat slot is already occupied."
+teleport-cancelled: "§d▐ §dTeleport cancelled. You moved!"
